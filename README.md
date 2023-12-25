@@ -1,6 +1,6 @@
 ﻿# PoshTheme_popu
 #### 这是啥？
-一款基于oh my posh自用主题
+一款基于oh my posh自用终端主题
 #### 怎么用？
 0.微软商店搜索oh my posh安装或自行前往[ohmyposh.dev](https://ohmyposh.dev/docs/installation/windows)安装  
 
