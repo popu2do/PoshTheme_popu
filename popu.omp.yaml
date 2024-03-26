@@ -1,5 +1,5 @@
 $schema: >-
-  https://raw.githubusercontent.com/popu-web/PoshTheme_popu/main/popu.omp.yaml
+  https://raw.githubusercontent.com/popu2do/PoshTheme_popu/main/popu.omp.yaml
 blocks:
   - alignment: left
     segments:
