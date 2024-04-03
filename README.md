@@ -7,7 +7,7 @@
 __推荐配置方法__  
 clone yaml到本地，powershell:
 ```
-curl -o $env:POSH_THEMES_PATH\popu.omp.yaml https://raw.githubusercontent.com/popu2do/PoshTheme_popu/main/popu.omp.yaml       
+curl -o $env:POSH_THEMES_PATH\popu.omp.yaml https://raw.githubusercontent.com/popu2do/PoshTheme_popu/main/popu.omp.yaml             
 ```
 powershell配置文件追加启动oh my posh主题
 ```
