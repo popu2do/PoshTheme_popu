@@ -37,13 +37,13 @@ blocks:
         foreground: "#4584B6"
         leading_diamond: "\ue0b6"
         style: diamond
-        template: " {{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }}{{ end }} <transparent>\ue0b6</>"
+        template: " {{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }}{{ end }} <transparent></>"       
         type: python
       - background: "#7FD5EA"
         foreground: "#ffffff"
         leading_diamond: "\ue0b6"
         style: diamond
-        template: " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} <transparent>\ue0b6</>"
+        template: " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} <transparent></>" 
         type: go
       - background: "#333333"
         foreground: "#F4D00C"
