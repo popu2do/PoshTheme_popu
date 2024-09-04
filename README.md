@@ -22,6 +22,5 @@ Add-Content $profile "`noh-my-posh init pwsh --config `'https://raw.githubuserco
 
 - - -
 
-##### 实际效果
+##### 
 配色方案来自 [colordrop](https://colordrop.io/)
-![Alt text](screenshot/image.png) 
